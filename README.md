@@ -25,6 +25,7 @@ flowchart TD
 
 ## Folder Structure Example
 
+```
 review-31-07-25/
 │
 ├── frontend/
@@ -35,6 +36,8 @@ review-31-07-25/
 │   └── [Model-related files]
 └── codes/
     └── [All complete working code files/scripts]
+```
+
 
 
 
