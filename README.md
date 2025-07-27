@@ -5,6 +5,7 @@ An assistant that helps you organize, summarize and and analyze daily tasks
 
 ## Contribution Flowchart
 
+```mermaid
 flowchart TD
 Start([Start])
 ReviewNum[/"Create folder: Review Number (including date)"/]
@@ -14,14 +15,12 @@ Backend[/"Backend"/]
 Model[/"Model"/]
 Final[/"Working Codes"/]
 
-
-Start --> ReviewNum
-ReviewNum --> Structure
+Start --> ReviewNum --> Structure
 Structure --> Frontend
 Structure --> Backend
 Structure --> Model
-Structure --> Codes
-
+Structure --> Final
+```
 
 ## Folder Structure Example
 
