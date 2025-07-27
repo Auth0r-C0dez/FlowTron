@@ -12,7 +12,7 @@ Structure[{"Inside review number folder:"}]
 Frontend[/"Frontend"/]
 Backend[/"Backend"/]
 Model[/"Model"/]
-Final[/"Working Codes"/] (final working code)
+Final[/"Working Codes"/]
 
 
 Start --> ReviewNum
