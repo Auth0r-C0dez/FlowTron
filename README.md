@@ -7,20 +7,21 @@ An assistant that helps you organize, summarize and and analyze daily tasks
 
 ```mermaid
 flowchart TD
-Start([Start])
-ReviewNum[/"Create folder: Review Number (including date)"/]
-Structure[{"Inside review number folder:"}]
-Frontend[/"Frontend"/]
-Backend[/"Backend"/]
-Model[/"Model"/]
-Final[/"Working Codes"/]
+    Start([Start])
+    ReviewNum[/"Create folder: Review Number (including date)"/]
+    Structure["Inside review number folder:"]
+    Frontend[/"Frontend"/]
+    Backend[/"Backend"/]
+    Model[/"Model"/]
+    Final[/"Working Codes"/]
 
-Start --> ReviewNum --> Structure
-Structure --> Frontend
-Structure --> Backend
-Structure --> Model
-Structure --> Final
+    Start --> ReviewNum --> Structure
+    Structure --> Frontend
+    Structure --> Backend
+    Structure --> Model
+    Structure --> Final
 ```
+
 
 ## Folder Structure Example
 
