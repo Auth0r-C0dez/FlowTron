@@ -9,7 +9,6 @@ An assistant that helps you organize, summarize and and analyze daily tasks
 flowchart TD
     Start([Start])
     ReviewNum[/"Create folder: Review Number (including date)"/]
-    Structure["Inside review number folder:"]
     Frontend[/"Frontend"/]
     Backend[/"Backend"/]
     Model[/"Model"/]
