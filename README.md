@@ -34,8 +34,8 @@ review-31-07-25/
 │   └── [Backend-related files]
 ├── model/
 │   └── [Model-related files]
-└── codes/
-    └── [All complete working code files/scripts]
+└── Final/
+    └── [All complete working code files/scripts] (this folder is to have the entire working version of the code
 ```
 
 
