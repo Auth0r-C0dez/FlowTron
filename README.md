@@ -25,7 +25,17 @@ Structure --> Codes
 
 ## Folder Structure Example
 
-<pre> ```text review-31-07-25/ │ ├── frontend/ │ └── [Frontend-related files] ├── backend/ │ └── [Backend-related files] ├── model/ │ └── [Model-related files] └── codes/ └── [All complete working code files/scripts] ``` </pre>
+review-31-07-25/
+│
+├── frontend/
+│   └── [Frontend-related files]
+├── backend/
+│   └── [Backend-related files]
+├── model/
+│   └── [Model-related files]
+└── codes/
+    └── [All complete working code files/scripts]
+
 
 
 
